@@ -1,11 +1,14 @@
 Built a TodoList using React-Redux and React Toolkit. This Todo List uses React for the UI, Redux for the state management and Redux Toolkit(RTK) to simply Redux implementation. It provides efficient data flow and component based architecture for neat and reliable application.
+
 Link: https://jmtodos.vercel.app/
 
-![Screenshot 2025-03-29 152238](https://github.com/user-attachments/assets/ab5d5d88-51dc-4986-98a7-f7ed6c645f17)
+![Screenshot 2025-03-31 120251](https://github.com/user-attachments/assets/ef31bcae-c2c5-4e38-9dc7-c626fac261e3)
 
-![Screenshot 2025-03-29 152311](https://github.com/user-attachments/assets/62daf41b-1171-414e-a83b-b34cc7ce316e)
+![Screenshot 2025-03-31 120315](https://github.com/user-attachments/assets/76104e9b-a9ea-41ec-9f5e-5fcd6dda5fa7)
 
-![Screenshot 2025-03-29 152339](https://github.com/user-attachments/assets/af856e8a-0c56-496a-9596-7954273669d4)
+![Screenshot 2025-03-31 120401](https://github.com/user-attachments/assets/9f3fde4a-b05f-4e34-b04c-30d3add7b9d3)
+
+
 
 
 
